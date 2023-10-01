@@ -55,7 +55,7 @@
       <title>CMHT-v3</title>
       <item identifier="ConsultationModels_SCO" isvisible="true" identifierref="__6aU0o8WvjNx_RES">
         <title>CMHT-v3</title>
-        <adlcp:masteryscore>80</adlcp:masteryscore>
+        <adlcp:masteryscore>100</adlcp:masteryscore>
       </item>
     </organization>
   </organizations>
@@ -67,11 +67,13 @@
       <file href="mobile/5vC6DvUDdcQ.png" />
       <file href="mobile/5vC6DvUDdcQ_P_0_0_459_1863.png" />
       <file href="mobile/5rrCkBOBxX2_F3FBFE_P_162_149_1743_1215.png" />
+      <file href="story_content/6BBZTqdYFfS_44100_48_0.mp3" />
       <file href="mobile/6SoNbd1R6uf.png" />
       <file href="mobile/5aElE3WSmqw.png" />
       <file href="mobile/6HjJg5raYlf.png" />
       <file href="mobile/6816zfw1Mi4.png" />
       <file href="mobile/64lmWHilr0Y.png" />
+      <file href="story_content/6Zj8FSQiWZm_44100_48_0.mp3" />
       <file href="story_content/6BfSotTCvs2_44100_48_0.mp3" />
       <file href="story_content/6WF7PLfFG6B.js" />
       <file href="story_content/6Ydf39HP3AG.js" />
@@ -1127,8 +1129,6 @@
       <file href="story_content/5wlAUOilQN7_44100_48_0.mp3" />
       <file href="meta.xml" />
       <file href="story_content/user.js" />
-      <file href="mobile/txt__default_6RqSeopASnR.png" />
-      <file href="mobile/txt__default_6BPqgyX9sNl.png" />
       <file href="mobile/Shape5mH4LIRPRGN.png" />
       <file href="mobile/Shape5V2dAV3TLwt.png" />
       <file href="mobile/txt__default_66zsnYObjUl.png" />
