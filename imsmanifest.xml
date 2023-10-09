@@ -1,13 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest identifier="_6aU0o8WvjNx" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+<manifest identifier="_6bqG2vMOMVg" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
   <metadata>
     <schema>ADL SCORM</schema>
     <schemaversion>1.2</schemaversion>
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">CMHT-v3</langstring>
+          <langstring xml:lang="x-none">CMHT-v31</langstring>
         </title>
+        <description>
+          <langstring xml:lang="x-none">intro slides removed, seekbar enabled 101023</langstring>
+        </description>
       </general>
       <lifecycle>
         <version>
@@ -50,30 +53,23 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="CMHT-v3_ORG">
-    <organization identifier="CMHT-v3_ORG">
-      <title>CMHT-v3</title>
-      <item identifier="ConsultationModels_SCO" isvisible="true" identifierref="__6aU0o8WvjNx_RES">
-        <title>CMHT-v3</title>
+  <organizations default="CMHT-v31_ORG">
+    <organization identifier="CMHT-v31_ORG">
+      <title>CMHT-v31</title>
+      <item identifier="ConsultationModels_SCO" isvisible="true" identifierref="__6bqG2vMOMVg_RES">
+        <title>CMHT-v31</title>
         <adlcp:masteryscore>100</adlcp:masteryscore>
       </item>
     </organization>
   </organizations>
   <resources>
-    <resource identifier="__6aU0o8WvjNx_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+    <resource identifier="__6bqG2vMOMVg_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
       <file href="mobile/6OG0ILx2u0o.png" />
       <file href="story_content/6ckHOhDXw5t_44100_48_0.mp3" />
       <file href="mobile/5vC6DvUDdcQ.png" />
       <file href="mobile/5vC6DvUDdcQ_P_0_0_459_1863.png" />
-      <file href="mobile/5rrCkBOBxX2_F3FBFE_P_162_149_1743_1215.png" />
-      <file href="story_content/6BBZTqdYFfS_44100_48_0.mp3" />
-      <file href="mobile/6SoNbd1R6uf.png" />
       <file href="mobile/5aElE3WSmqw.png" />
-      <file href="mobile/6HjJg5raYlf.png" />
-      <file href="mobile/6816zfw1Mi4.png" />
-      <file href="mobile/64lmWHilr0Y.png" />
-      <file href="story_content/6Zj8FSQiWZm_44100_48_0.mp3" />
       <file href="story_content/6BfSotTCvs2_44100_48_0.mp3" />
       <file href="story_content/6WF7PLfFG6B.js" />
       <file href="story_content/6Ydf39HP3AG.js" />
@@ -112,8 +108,6 @@
       <file href="mobile/6H3HceKuYIM.png" />
       <file href="story_content/5ZgJDGfeaLs_44100_48_0.mp3" />
       <file href="story_content/6fYwH0wol18_44100_48_0.mp3" />
-      <file href="mobile/6Xw4UucRck9_M_890_890_P_98_69_575_575.png" />
-      <file href="mobile/6ZovAJtyMtS_M_636_636.png" />
       <file href="mobile/6ZuKYIikDoJ.png" />
       <file href="story_content/6LF6btoVWJv_44100_48_0.mp3" />
       <file href="mobile/5ZAnYUcOBFr.png" />
@@ -1136,7 +1130,6 @@
       <file href="mobile/Shape6383lLpeCJZ.png" />
       <file href="html5/data/css/output.min.css" />
       <file href="html5/data/js/5byZQk357pe.js" />
-      <file href="html5/data/js/5gkclF7681b.js" />
       <file href="html5/data/js/5h3zA9phoO0.js" />
       <file href="html5/data/js/5iqcC44l5mT.js" />
       <file href="html5/data/js/5ll01aUvbW9.js" />
@@ -1157,7 +1150,6 @@
       <file href="html5/data/js/6g0TDtKaWym.js" />
       <file href="html5/data/js/6gIv71g171P.js" />
       <file href="html5/data/js/6l6Ra09W36W.js" />
-      <file href="html5/data/js/6m1bsM7zKgV.js" />
       <file href="html5/data/js/6mz7J8pXyqV.js" />
       <file href="html5/data/js/6nfPGnpcRf5.js" />
       <file href="html5/data/js/6NS3hAdJzvv.js" />
