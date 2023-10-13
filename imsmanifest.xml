@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest identifier="_6bqG2vMOMVg" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+<manifest identifier="_63RVaOqWaF7" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
   <metadata>
     <schema>ADL SCORM</schema>
     <schemaversion>1.2</schemaversion>
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">CMHT-v31</langstring>
+          <langstring xml:lang="x-none">CMHT-v32</langstring>
         </title>
         <description>
-          <langstring xml:lang="x-none">intro slides removed, seekbar enabled 101023</langstring>
+          <langstring xml:lang="x-none">intro slides removed, seekbar enabled 101023; Audio and Matching Drag and Drop updated 141023</langstring>
         </description>
       </general>
       <lifecycle>
@@ -53,17 +53,17 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="CMHT-v31_ORG">
-    <organization identifier="CMHT-v31_ORG">
-      <title>CMHT-v31</title>
-      <item identifier="ConsultationModels_SCO" isvisible="true" identifierref="__6bqG2vMOMVg_RES">
-        <title>CMHT-v31</title>
+  <organizations default="CMHT-v32_ORG">
+    <organization identifier="CMHT-v32_ORG">
+      <title>CMHT-v32</title>
+      <item identifier="ConsultationModels_SCO" isvisible="true" identifierref="__63RVaOqWaF7_RES">
+        <title>CMHT-v32</title>
         <adlcp:masteryscore>100</adlcp:masteryscore>
       </item>
     </organization>
   </organizations>
   <resources>
-    <resource identifier="__6bqG2vMOMVg_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+    <resource identifier="__63RVaOqWaF7_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
       <file href="mobile/6OG0ILx2u0o.png" />
       <file href="story_content/6ckHOhDXw5t_44100_48_0.mp3" />
@@ -109,6 +109,7 @@
       <file href="story_content/5ZgJDGfeaLs_44100_48_0.mp3" />
       <file href="story_content/6fYwH0wol18_44100_48_0.mp3" />
       <file href="mobile/6ZuKYIikDoJ.png" />
+      <file href="story_content/5zh5wtPc9FL_44100_48_0.mp3" />
       <file href="story_content/6LF6btoVWJv_44100_48_0.mp3" />
       <file href="mobile/5ZAnYUcOBFr.png" />
       <file href="mobile/6ji0qp5R8Xq.png" />
@@ -119,6 +120,7 @@
       <file href="mobile/5XQ4uE7CFpJ_X.png" />
       <file href="story_content/6SC3MLuAYWG_44100_48_0.mp3" />
       <file href="story_content/5kxpgMKmPwE_44100_48_0.mp3" />
+      <file href="story_content/6bfSfRFnlkD_44100_48_0.mp3" />
       <file href="story_content/6WerHCWdhh9_44100_48_0.mp3" />
       <file href="mobile/65ivhsbjbUA.png" />
       <file href="mobile/5l3D3Bf40sc.png" />
